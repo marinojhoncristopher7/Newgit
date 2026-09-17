@@ -1,0 +1,24 @@
+{
+  "name": "marino_newgit",
+  "version": "1.0.0",
+  "description": "practice",
+  "keywords": [],
+  "homepage": "https://github.com/marinojhoncristopher7/Newgit#readme",
+  "bugs": {
+    "url": "https://github.com/marinojhoncristopher7/Newgit/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/marinojhoncristopher7/Newgit.git"
+  },
+  "license": "ISC",
+  "author": "Marino, Jhon",
+  "type": "commonjs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "express": "^5.2.1"
+  }
+}
